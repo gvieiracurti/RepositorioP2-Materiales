@@ -1,8 +1,8 @@
 # Repositorio de Materiales P2 - Práctico
 
 ## NetBeans y JDK
-** Instaladores en Drive - https://drive.google.com/drive/folders/1UXT3q06bMO4HxUiy5Yx8uvAa9C6cEJ-C?usp=sharing
-** Atajos de teclado NetBeans
+### Instaladores en Drive - https://drive.google.com/drive/folders/1UXT3q06bMO4HxUiy5Yx8uvAa9C6cEJ-C?usp=sharing
+### Atajos de teclado NetBeans
 * Shift + Alt + F - Indentar
 * Shift + Control + Flecha abajo (o arriba) - Duplica la línea actual
 * Shift + Alt + Flecha abajo (o arriba) - Mueve la línea actual
