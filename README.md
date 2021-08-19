@@ -1,4 +1,4 @@
-#Repositorio de Materiales P2 - Práctico
+# Repositorio de Materiales P2 - Práctico
 
 ## Sugerencias
 Pueden dejar las sugerencias o comentarios sobre las clases de práctico en el siguiente formulario: https://forms.gle/fzpccSkNDYzwssKX7
