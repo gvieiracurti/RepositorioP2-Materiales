@@ -2,6 +2,7 @@
 
 ## NetBeans y JDK
 ### Instaladores en Drive - https://drive.google.com/drive/folders/1UXT3q06bMO4HxUiy5Yx8uvAa9C6cEJ-C?usp=sharing
+### Crear un proyecto: File --> New Project --> Java with Ant --> Java Application --> Next --> Establecer nombre y terminar de crearlo.
 ### Atajos de teclado NetBeans
 * Shift + Alt + F - Indentar
 * Shift + Control + Flecha abajo (o arriba) - Duplica la línea actual
